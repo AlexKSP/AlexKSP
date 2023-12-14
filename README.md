@@ -1,4 +1,4 @@
-### Hi there :sunglasses:
+### Olá pessoal :sunglasses:
 
 Sou o Alex, e sou um Programador Front-End, e atualmente tenho feito alguns projetos com:
   
